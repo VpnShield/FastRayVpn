@@ -17,7 +17,7 @@
 "Cancellable": "false",
 "MessageID": "011836451000",
 "ShowTime": "3",
-"Button": "  اجباری  ",
+"Button": "  عضویت فوری  ",
 "ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
